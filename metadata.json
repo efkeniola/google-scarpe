@@ -1,0 +1,7 @@
+{
+  "name": "MapLead: Business Phone Finder",
+  "description": "A professional tool for discovering local businesses, their phone numbers, and contact details using Google Maps grounding via Gemini 2.5.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
